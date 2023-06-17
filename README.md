@@ -22,6 +22,13 @@
     <br> 
 </p>
 
+## Output
+![Screenshot (472)](https://github.com/shubhamj-26/IPL/assets/129495808/82bd636c-c735-4005-a283-3a42fa9cfa00)
+![Screenshot (473)](https://github.com/shubhamj-26/IPL/assets/129495808/69780a69-08d7-47b3-b398-fabe3b05c0cd)
+![Screenshot (474)](https://github.com/shubhamj-26/IPL/assets/129495808/2e15a054-95d8-4364-a5e6-a4c04391c564)
+![Screenshot (476)](https://github.com/shubhamj-26/IPL/assets/129495808/44a53fd9-a242-4116-8270-9341b0ce95fb)
+
+
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
