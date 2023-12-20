@@ -79,7 +79,7 @@ With the IPL Dashboard, you can dive deep into the rich history of the Indian Pr
 - Eclipse will prompt you to choose a workspace directory where your projects will be stored. Select a suitable location and proceed.
 - Eclipse will then start up, and you can begin using it for your development needs.
 
-```
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 In manual testing for IPL Dashboard project, will need to thoroughly explore and interact with the dashboard's features,
@@ -96,7 +96,7 @@ IPL Dashboard.
 
 
 ## ✍️ Author <a name = "author"></a>
-- [@Shubham Jadhav](https://github.com/shubhamj-26).
+- [@Shubham Jadhav](https://github.com/shubhamj-26)
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
@@ -106,3 +106,5 @@ Additionally, I have referenced various reliable sources such as official IPL we
 kaggle.com, and data visualization platforms to ensure the accuracy and integrity of the match data presented in the 
 dashboard. These sources have played a crucial role in shaping the design and functionality of the IPL Dashboard, allowing 
 me to create a reliable and informative platform for IPL enthusiasts.
+
+```
