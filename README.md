@@ -94,4 +94,3 @@ In manual testing for the IPL Dashboard project, thoroughly explore and interact
 
 ## 🎉 Acknowledgements <a name="acknowledgement"></a>
 The IPL Dashboard project draws inspiration from the passion of cricket enthusiasts and fans of the Indian Premier League (IPL). It references official IPL websites, cricket statistics datasets from [kaggle.com](https://www.kaggle.com/), and data visualization platforms. These sources shape the design and functionality, creating a reliable and informative platform for IPL enthusiasts.
-
